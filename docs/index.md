@@ -8,8 +8,13 @@ This guide will help you get started with modding Derail Valley, and will provid
 Getting Started
 ---------------
 
-If you'd like to install mods, start with the [Installing BepInEx][installing-bepinex] page.
-BepInEx is the mod loader Derail Valley uses, and is required for all mods to work.
+If you'd like to install mods, start with the [Installing UMM][installing-umm] page.
+Unity Mod Manager is the mod loader Derail Valley uses, and is required for all mods to work.
+
+If you want to create mods, head over to the [Creating Mods][creating-mods] page.
+Unity Mod Manager is the mod loader Derail Valley uses, and is required for all mods to work.
 
 
-[installing-bepinex]: ./users/installing-bepinex.md
+
+[installing-umm]: ./users/installing-umm.md
+[creating-mods]: ./users/creating-mods.md
